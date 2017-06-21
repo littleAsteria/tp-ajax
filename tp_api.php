@@ -17,11 +17,22 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 			$req->bindParam(':annee', $_POST['annee']);
 			$req->bindParam(':couleur', $_POST['couleur']);
 			$req->bindParam(':image', $_POST['image']);
-		}
+		} /*accolade $post*/
 
 			$req->execute();
 	
-}
+	} /*accolade $server*/
+	elseif($_SERVER['REQUEST_METHOD'] == 'GET'){
+		if(empty($_GET)) 
+				$req = $dbh->prepare("SELECT * FROM modele_voiture");
+			}
+
+			$req->execute();
+			
+			echo json_encode($req->fetchAll());
+
+	}/*accolade elseif*/
+
 
 
 
