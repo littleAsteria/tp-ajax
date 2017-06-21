@@ -1,0 +1,16 @@
+modele : rollsRoyce
+http://www.motos-voitures-anciennes.com/wp-content/uploads/2013/09/voiture-ancienne1.jpg
+
+modele : rollsDecapotable
+http://www.salon-saver.fr/wp-content/uploads/2017/01/classic_car_hd_wallpaper_fond_ecran_hd_voiture_ancienne_2.jpg
+
+modele : classRed
+http://www.laboiteverte.fr/wp-content/uploads/2013/01/14-microcar-mini-voiture-06.jpg
+
+modele : MgBlue
+http://pussycatdreams.p.u.pic.centerblog.net/gawv5isi.jpg
+
+modele : blue pussycat
+http://pussycatdreams.p.u.pic.centerblog.net/h5harvjh.jpg
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
